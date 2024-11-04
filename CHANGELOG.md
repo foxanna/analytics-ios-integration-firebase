@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+Version 2.7.16 *(4th November, 2024)*
+-------------------------------------------
+* Bumped Firebase to version 11.2.0
+
 Version 2.7.15 *(30th April, 2024)*
 -------------------------------------------
 * Bumped Firebase to version 10.24.0
